@@ -19,5 +19,4 @@
  - Redux for State Manangment
  - Git and Github for VCS
  - BootStrap for UI
- - JWT for maintaing sessions
  - MongoDB for Database
